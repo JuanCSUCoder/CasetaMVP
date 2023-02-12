@@ -1,6 +1,6 @@
-[submodule "certasset"]
-	path = certasset
-	url = ./certasset
+[submodule "smart-contract"]
+	path = smart-contract
+	url = ./smart-contract
 [submodule "plan"]
 	path = plan
 	url = ./plan
