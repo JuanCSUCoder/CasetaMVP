@@ -1,9 +1,9 @@
 [submodule "smart-contract"]
 	path = smart-contract
-	url = ./smart-contract
+	url = https://github.com/JuanCSUCoder/CasetaSmartContract.git
 [submodule "plan"]
 	path = plan
-	url = ./plan
+	url = https://github.com/JuanCSUCoder/CasetaPlaneacion.git
 [submodule "marca"]
 	path = marca
-	url = ./marca/
+	url = https://github.com/JuanCSUCoder/CasetaMarca.git
