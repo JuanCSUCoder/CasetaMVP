@@ -7,3 +7,6 @@
 [submodule "marca"]
 	path = marca
 	url = https://github.com/JuanCSUCoder/CasetaMarca.git
+[submodule "app"]
+	path = app
+	url = https://github.com/JuanCSUCoder/CasetaWebApp.git
